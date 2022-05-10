@@ -49,7 +49,7 @@ var1 = 5 + 10.2
 
 # Realizar una operación de suma de números complejos
 y= 5+8j
-z= 8+j
+z= 8+1j
 print(y+z)
 
 # Realizar una operación de suma de un número real y otro complejo
